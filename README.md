@@ -30,7 +30,7 @@
 
 ##### GitHub İstatistiklerim (Yalnızca Herkese Açık Katkılar)
 
-![Github stats 2](https://github-readme-stats.vercel.app/api?username=miraykaymak&show_icons=true&title_color=fff&icon_color=79ff97&text_color=000000&bg_color=eb6c0c)
+![Github stats 2](https://github-readme-stats.vercel.app/api?username=miraykaymak&show_icons=true&title_color=fff&icon_color=79ff97&text_color=000000&bg_color=ed7215)
 
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=miraykaymak)
