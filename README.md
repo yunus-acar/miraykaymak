@@ -1,16 +1,36 @@
-### Hi there 👋
+### Merhaba, Ben Yunus Emre  <a href="https://www.yunusacar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
 
-<!--
-**miraykaymak/miraykaymak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ 
+[![GitHub followers](https://img.shields.io/github/followers/yunus-emreee67.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/miraykaymak)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](www.linkedin.com/in/hivda-miray-kaymak-6353121a3/)
+[![Gmail](https://img.shields.io/badge/-gmail-c14438?style=flat&logo=gmail&logoColor=white)](mailto:miirayazz00@gmail.com)
+<hr/>
+
+##### Kullandığım diller
+
+![HTML5](https://img.shields.io/badge/-HTML5-222222?style=flat&logo=html5)
+![CSS3](https://img.shields.io/badge/-CSS3-222222?style=flat&logo=html5)
+![JavaScript](https://img.shields.io/badge/-JavaScript-222222?style=flat&logo=javascript)
+![PHP](https://img.shields.io/badge/-JavaScript-222222?style=flat&logo=php)
+
+<hr/>
+
+##### Çalıştığım teknolojilerden bazıları
+
+![Git](https://img.shields.io/badge/-Git-222222?style=flat&logo=git&logoColor=F05032)
+![GitHub](https://img.shields.io/badge/-GitHub-222222?style=flat&logo=github&logoColor=181717)
+![Symfony](https://img.shields.io/badge/-Node.js-222222?style=flat&logo=symfony&logoColor=339933)
+![Sass](https://img.shields.io/badge/-Sass-%23CC6699?style=flat&logo=sass&logoColor=ffffff)
+[![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&link=https://github.com/mehmeteyupoglu/)](https://github.com/mehmeteyupoglu/)
+![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=ffffff)
+
+<hr/>
+
+##### GitHub İstatistiklerim (Yalnızca Herkese Açık Katkılar)
+
+![Github stats 2](https://github-readme-stats.vercel.app/api?username=miraykaymak&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=eb6c0c)
+
+
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=miraykaymak)
