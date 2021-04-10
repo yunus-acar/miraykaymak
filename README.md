@@ -1,4 +1,4 @@
-### Merhaba, Ben Yunus Emre  <a href="https://www.yunusacar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
+### Merhaba, Ben Miray  <a href="#"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
 
 
 
@@ -30,7 +30,7 @@
 
 ##### GitHub İstatistiklerim (Yalnızca Herkese Açık Katkılar)
 
-![Github stats 2](https://github-readme-stats.vercel.app/api?username=miraykaymak&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=eb6c0c)
+![Github stats 2](https://github-readme-stats.vercel.app/api?username=miraykaymak&show_icons=true&title_color=fff&icon_color=79ff97&text_color=000000&bg_color=eb6c0c)
 
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=miraykaymak)
